@@ -1,0 +1,18 @@
+ID: US_23.007 | Organization Folder Management > Configure Credentials
+
+Description:
+
+As a Jenkins administrator,
+I want to configure credentials within an organization folder,
+So that I can manage access and authentication settings for various projects and pipelines securely.
+
+Acceptance Criteria:
+
+By navigating to the organization folder on the Dashboard, the user can access the credentials configuration section.
+Clicking on the "Configure Credentials" option opens a page to manage and set up credentials.
+While on the credentials configuration page, the user can:
+
+Add new credentials by specifying the type (e.g., username/password, secret text, SSH keys).
+Edit existing credentials to update access information.
+Delete credentials that are no longer needed.
+Assign credentials to specific projects or pipelines to control access. After configuring the credentials, the user can save the changes and ensure that they are applied to the relevant projects or pipelines.

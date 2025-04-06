@@ -1,0 +1,18 @@
+ID: US_23.005 | Organization Folder Management > View Build History
+
+Description:
+
+As a Jenkins user,
+I want to view the build history of pipelines within an organization folder,
+So that I can track the progress and results of builds over time.
+
+Acceptance Criteria:
+
+By navigating to the organization folder on the Dashboard, the user can access the build history for each pipeline.
+Clicking on the "Build History" option for a pipeline opens a detailed view of past builds.
+While on the build history page, the user can:
+
+See a chronological list of builds with their statuses (e.g., success, failure, in progress).
+View detailed logs and artifacts for each build to diagnose issues.
+Filter builds by date, status, or other criteria to find specific builds quickly.
+Access options to restart or delete builds if necessary. After reviewing the build history, the user can return to the organization folder view or navigate to other sections of Jenkins.

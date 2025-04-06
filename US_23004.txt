@@ -1,0 +1,17 @@
+ID: US_23.004 | Organization Folder Management > Delete Folder
+
+Description:
+
+As a Jenkins administrator,
+I want to delete an organization folder,
+So that I can remove unnecessary or outdated structures and keep the workspace organized.
+
+Acceptance Criteria:
+
+By navigating to the organization folder on the Dashboard, the user can access options to delete the folder.
+Clicking on the "Delete Folder" option opens a confirmation dialog to prevent accidental deletion.
+While in the confirmation dialog, the user can:
+
+Review the name and contents of the folder to ensure the correct folder is being deleted.
+Confirm the deletion by clicking "Yes" or "Delete".
+Cancel the operation if needed. After confirming the deletion, the folder is removed from the system, and the user is redirected to the parent directory or the main Dashboard.

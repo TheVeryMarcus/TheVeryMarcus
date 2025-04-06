@@ -1,0 +1,18 @@
+ID: US_23.006 | Organization Folder Management > View Build History Monitor
+
+Description:
+
+As a Jenkins user,
+I want to monitor the build history of pipelines within an organization folder in real-time,
+So that I can promptly identify and address any issues or failures as they occur.
+
+Acceptance Criteria:
+
+By navigating to the organization folder on the Dashboard, the user can access a real-time build history monitor.
+Clicking on the "Build History Monitor" option opens a live view of ongoing and recent builds.
+While on the build history monitor page, the user can:
+
+See a real-time feed of builds with their current statuses (e.g., in progress, success, failure).
+Receive notifications or alerts for build failures or significant events.
+View detailed logs and progress for builds currently in progress.
+Filter and sort builds by various criteria to focus on specific pipelines or issues. After monitoring the build history, the user can take immediate action if necessary, such as stopping a failing build or investigating issues.

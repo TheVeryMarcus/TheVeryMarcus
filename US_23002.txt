@@ -1,0 +1,18 @@
+ID: US_23.002 | Organization Folder Management > Check Build status
+
+Description:
+
+As a Jenkins user,
+I want to check the build status of pipelines within an organization folder,
+So that I can monitor the progress and ensure that builds are completing successfully.
+
+Acceptance Criteria:
+
+By navigating to the organization folder on the Dashboard, the user can view the build status of all pipelines within that folder.
+Clicking on the build status indicator (e.g., a colored dot or icon) next to each pipeline name opens a detailed view of the build history and current status.
+While on the build status page, the user can:
+
+See a list of recent builds with their statuses (e.g., success, failure, in progress).
+View detailed logs for each build to diagnose issues.
+Access options to restart or cancel builds if necessary.
+Check the duration and timing of each build step. After reviewing the build status, the user can return to the organization folder view or navigate to other sections of Jenkins.

@@ -1,0 +1,18 @@
+ID: US_23.003 | Organization Folder Management > Add new Item
+
+Description:
+
+As a Jenkins administrator,
+I want to add a new item within an organization folder,
+So that I can structure and manage projects efficiently within the organization.
+
+Acceptance Criteria:
+
+By navigating to the organization folder on the Dashboard, the user can access options to add a new item.
+Clicking on the "New Item" button within the organization folder opens a dialog or page to configure the new item.
+While on the "New Item" page, the user can:
+
+Select the type of item to create (e.g., Freestyle project, Pipeline, Multibranch Pipeline).
+Enter a name for the new item.
+Configure initial settings and parameters for the new item.
+Save the new item configuration and add it to the organization folder. After successfully adding the new item, the user is redirected to the configuration page of the new item or back to the organization folder view.

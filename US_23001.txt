@@ -1,0 +1,18 @@
+ID: US_23.001 | Organization Folder Management > Open Pipeline from the Dashboard
+
+Description:
+
+As a Jenkins user,
+I want to open a pipeline directly from the Dashboard,
+So that I can quickly access and manage my pipelines without navigating through multiple menus.
+
+Acceptance Criteria:
+
+By clicking on a pipeline name or link on the Dashboard, the user can access the pipeline's details and configuration.
+Clicking on the pipeline name in the Dashboard opens the pipeline page, where detailed information and configuration options are available.
+While on the pipeline page, the user can:
+
+View the pipeline's build history.
+Trigger a new build manually.
+Access and modify the pipeline configuration.
+View logs and build artifacts. After making necessary changes or reviewing the pipeline, the user can return to the Dashboard or navigate to other sections of Jenkins.

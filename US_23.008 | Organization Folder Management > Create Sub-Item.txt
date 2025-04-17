@@ -1,0 +1,24 @@
+**ID:** US_23.008 | Organization Folder Management > Create Sub-Item
+
+**Description:**
+
+**As a** user,
+**I want to** create a new sub-item within an organization folder,
+**So that** I can structure and manage projects efficiently within the organization, improving clarity and accessibility of project components.
+
+**Acceptance Criteria:**
+
+1. By navigating to the organization folder on the Dashboard, the user can access options to add a new sub-item.
+2. Clicking on the "New Sub-Item" button within the organization folder opens a dialog or page to configure the new sub-item.
+3.While on the "New Sub-Item" page, the user can:
+
+- Select the type of sub-item to create (e.g., Freestyle project, Pipeline, Multibranch Pipeline).
+- Enter a name for the new sub-item.
+- Configure initial settings and parameters for the new sub-item.
+- Save the new sub-item configuration and add it to the organization folder.
+- Cancel the creation process if needed, returning to the previous view without saving changes.
+
+
+4. The system validates that all required fields are completed before allowing the user to save the new sub-item.
+5. After successfully adding the new sub-item, the user is redirected to the configuration page of the new sub-item or back to the organization folder view.
+6. The user can edit the sub-item's configuration after it has been created by navigating to its settings.

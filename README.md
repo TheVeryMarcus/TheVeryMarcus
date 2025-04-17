@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheVeryMarcus
-- 👀 I’m interested in QA Engineering
-- 🌱 I’m currently learning all about QA
+- 👀 I’m interested in QA Engineering, also python studies
+- 🌱 I’m currently learning all about QA, python , SQL
 - 💞️ I’m looking to collaborate on QA knowledgement studies
 - 📫 How to reach me TheVeryMarcus :)
 - 😄 Pronouns: ...
